@@ -1,0 +1,9 @@
+#loading, #results {
+    display: none;
+}
+
+#error {
+    display: none;
+    color: red;
+  
+}
